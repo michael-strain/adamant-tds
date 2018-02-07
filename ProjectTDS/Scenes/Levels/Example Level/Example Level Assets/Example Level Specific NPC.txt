@@ -1,0 +1,21 @@
+EXAMPLE NPC
+
+NPC Name: Grim Reaper
+
+Relation: Bringer of Death and Destruction
+
+Species: Demon
+
+Height: Tall
+
+Weight: Avg
+
+Color: Unseen
+
+Hair: None
+
+Weapon: Scythe
+
+Description: Mysterious
+
+Role: When the last PC is standing, death will ooze in from another dimension, and fly the final PC to the underworld, where he will meet with the other PCs.
